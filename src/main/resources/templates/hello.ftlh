@@ -1,4 +1,4 @@
 <#import "parts/common.ftlh" as c>
 <@c.page>
-<div>Not Authorized</div>
+    <div>Authorized</div>
 </@c.page>
